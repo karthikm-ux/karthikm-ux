@@ -1,3 +1,32 @@
+<div align="center">
+
+<img src="./earth-banner.png" width="100%" alt="Pixel-art satellite views of Earth" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=32&duration=4000&pause=1800&color=65B96E&center=true&vCenter=true&width=650&height=50&lines=KARTHIK+M;DEVELOPER+%7C+TECHNOLOGY+%7C+DESIGN;BUILDING%2C+LEARNING%2C+ITERATING" alt="Karthik M — Developer, Technology, Design" />
+
+</div>
+
+---
+
+## About
+
+I'm interested in how things work, how they're built, and how small ideas become useful products.
+
+- Exploring software development and web technologies
+- Building projects to put new concepts into practice
+- Improving through experimentation and iteration
+
+## Currently working on
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=24&duration=4000&pause=1800&color=45F3FF&center=true&vCenter=true&width=600&height=40&lines=Learning+new+technologies;Turning+ideas+into+projects;Writing+better+code;Exploring+new+approaches" alt="Current focus" />
+
+</div>
+
+---
 
 ## Tech stack
 
@@ -51,5 +80,82 @@
 </td>
 </tr>
 </table>
+
+</div>
+
+---
+
+## GitHub activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=karthikm-ux&show_icons=true&hide_border=true&bg_color=101820&title_color=65B96E&icon_color=45F3FF&text_color=D6C2A2" alt="GitHub statistics" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikm-ux&layout=compact&hide_border=true&bg_color=101820&title_color=65B96E&text_color=D6C2A2" alt="Most-used languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=karthikm-ux&hide_border=true&background=101820&ring=65B96E&fire=45F3FF&currStreakLabel=65B96E&sideLabels=D6C2A2&currStreakNum=45F3FF&sideNums=D6C2A2&dates=8B9A91" alt="GitHub contribution streak" />
+
+</div>
+
+---
+
+## Recent projects
+
+<!-- AUTO-UPDATE:START -->
+*Your recent public repositories will appear here after the GitHub Actions workflow runs.*
+<!-- AUTO-UPDATE:END -->
+
+<sub>Last updated: <!-- LAST-UPDATED -->pending first run<!-- /LAST-UPDATED --></sub>
+
+---
+
+## Contributions
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karthikm-ux/karthikm-ux/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karthikm-ux/karthikm-ux/output/pacman-contribution-graph.svg" />
+  <img src="https://raw.githubusercontent.com/karthikm-ux/karthikm-ux/output/pacman-contribution-graph.svg" width="100%" alt="GitHub contributions animation" />
+</picture>
+
+</div>
+
+<div align="center">
+
+<img src="./kozhikode-pixel-map.gif" width="420" alt="Pixel-art world map highlighting Kozhikode, Kerala, India" />
+
+<br/>
+
+<sub>KOZHIKODE · KERALA · INDIA</sub>
+
+</div>
+
+---
+
+## Find me elsewhere
+
+<div align="center">
+
+<a href="https://github.com/karthikm-ux">
+<img src="https://img.shields.io/badge/GitHub-101820?style=for-the-badge&logo=github&logoColor=65B96E" alt="GitHub profile" />
+</a>
+<a href="https://www.linkedin.com/in/karthik-m-a3a167361/">
+<img src="https://img.shields.io/badge/LinkedIn-101820?style=for-the-badge&logo=linkedin&logoColor=45F3FF" alt="LinkedIn profile" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="./sea-of-code.gif" width="100%" alt="Pixel-art sea with a boat sailing through code" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=24&duration=4000&pause=1800&color=65B96E&center=true&vCenter=true&width=500&height=40&lines=Thanks+for+stopping+by.;More+projects+to+come." alt="Thanks for visiting" />
 
 </div>
