@@ -1,17 +1,23 @@
  
-<!-- ========================================= -->
-<!-- KARTHIK | EARTH & SATELLITE THEME         -->
-<!-- ========================================= -->
+<!-- =========================================== -->
+<!-- KARTHIK | EARTH-OBSERVATION PROFILE          -->
+<!-- =========================================== -->
 
 <div align="center">
 
-<img src="./earth-banner.png" width="100%" alt="Satellite views of rivers, forests, deserts, and mountains"/>
+<img src="./earth-banner.png" width="100%" alt="Satellite landscape of rivers, forests, and terrain"/>
 
 <br/>
 
 <a href="https://github.com/karthikm-ux">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&duration=3200&color=91C9B7&center=true&vCenter=true&width=700&height=100&lines=Hello%2C+welcome+to+my+profile!;whoami+%E2%86%92+Karthik;Currently+exploring+new+technologies...;learning();+experimenting();+building();;git+commit+-m+%22keep+learning%22" alt="Animated terminal-style introduction"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&duration=3000&color=91C9B7&center=true&vCenter=true&width=700&height=100&lines=Welcome+to+my+digital+landscape;whoami+%E2%86%92+Karthik;Learning.+Exploring.+Building.;Initializing+new+ideas...;git+commit+-m+%22keep+learning%22" alt="Animated welcome and terminal messages"/>
 </a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-263D35?style=for-the-badge&labelColor=222A29" alt="System online"/>
+<img src="https://img.shields.io/badge/MODE-EXPLORING-397C7A?style=for-the-badge&labelColor=222A29" alt="Exploring mode"/>
+<img src="https://img.shields.io/badge/NEXT-BUILDING-D6C2A2?style=for-the-badge&labelColor=222A29" alt="Next objective building"/>
 
 </div>
 
@@ -21,14 +27,14 @@
 
 Hey, I'm Karthik!
 
-I'm exploring different areas of technology and discovering what I enjoy building the most.
+I'm exploring different areas of technology, learning new tools, and discovering what I enjoy building most.
 
-- 🌱 Learning new tools, concepts, and technologies.
+- 🌱 Learning new programming concepts and technologies.
 - 🧩 Experimenting with ideas and learning through practice.
-- 🔍 Exploring different possibilities before choosing a direction.
-- 🚀 Working toward building projects of my own.
+- 🔍 Exploring different areas before choosing a direction.
+- 🚀 Working toward building and sharing projects of my own.
 
-**Currently:** Learning, experimenting, and figuring out what comes next.
+> Curious by nature. Learning one step at a time.
 
 ---
 
@@ -36,9 +42,30 @@ I'm exploring different areas of technology and discovering what I enjoy buildin
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=900&duration=2500&color=D6C2A2&background=222A2900&center=true&vCenter=true&width=650&height=130&lines=%24+whoami;Karthik+%7C+Curious+learner;%24+status;Exploring+%E2%80%A2+Experimenting+%E2%80%A2+Building;%24+git+status;On+the+journey+to+something+new..." alt="Animated terminal showing learning status"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1000&duration=2500&color=D6C2A2&background=222A2900&center=true&vCenter=true&width=650&height=140&lines=%24+whoami;Karthik+%7C+Curious+learner;%24+system.status();EXPLORING+%7C+LEARNING+%7C+BUILDING;%24+git+status;Finding+the+next+thing+to+build...;%24+echo+%22Stay+curious%22;Stay+curious." alt="Animated terminal readout"/>
 
 </div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:263D35,50:397C7A,100:D6C2A2" width="100%" alt="Earth-tone divider"/>
+</div>
+
+---
+
+## 🛰️ Mission Status
+
+<div align="center">
+
+| Mission | Current status |
+|:---|:---|
+| 🌱 Learning | Exploring new technologies |
+| 🔍 Discovery | Finding areas of interest |
+| 🛠️ Practice | Experimenting with ideas |
+| 🚀 Next objective | Build and share a project |
+
+</div>
+
+<sub>Mission status is a personal progress summary, not live system telemetry.</sub>
 
 ---
 
@@ -48,21 +75,23 @@ I'm exploring different areas of technology and discovering what I enjoy buildin
 
 ### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=js,ts,py,java,c,cpp&theme=dark" alt="Programming languages"/>
+<img src="https://skillicons.dev/icons?i=js,ts,py,java,c,cpp&theme=dark" alt="Programming language icons"/>
 
 ### 🌐 Web Development
 
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs&theme=dark" alt="Web development technologies"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs&theme=dark" alt="Web development icons"/>
 
-### 🗄️ Tools & Databases
+### 🧰 Tools & Databases
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,mongodb,mysql,linux,jest,storybook&theme=dark" alt="Development tools and databases"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,mongodb,mysql,linux,jest,storybook&theme=dark" alt="Tools and database icons"/>
 
 ### 🔬 Other Technologies
 
-<img src="https://skillicons.dev/icons?i=matlab,arduino&theme=dark" alt="MATLAB and Arduino"/>
+<img src="https://skillicons.dev/icons?i=matlab,arduino&theme=dark" alt="MATLAB and Arduino icons"/>
 
 </div>
+
+<sub>Keep only the technologies you've actually used or explored; remove any icons that don't fit your experience.</sub>
 
 ---
 
@@ -70,20 +99,14 @@ I'm exploring different areas of technology and discovering what I enjoy buildin
 
 <div align="center">
 
-| Area | Focus |
+| Focus | Objective |
 |:---:|:---|
-| 💻 | Learning new programming concepts |
-| 🛠️ | Experimenting with development tools |
-| 🌐 | Exploring web technologies |
-| 🧩 | Practicing problem-solving |
-| 🚀 | Building skills through hands-on learning |
+| 💻 | Learn programming concepts |
+| 🛠️ | Experiment with development tools |
+| 🌐 | Explore web technologies |
+| 🧩 | Practice problem-solving |
+| 🚀 | Turn learning into projects |
 
-</div>
-
-> Curious about technology, open to new ideas, and learning one step at a time.
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:263D35,50:397C7A,100:D6C2A2" width="100%" alt="Earth-tone section divider"/>
 </div>
 
 ---
@@ -102,12 +125,14 @@ I'm exploring different areas of technology and discovering what I enjoy buildin
 
 </div>
 
+<sub>Statistics are loaded from external services and may occasionally be unavailable or cached.</sub>
+
 ---
 
 ## 🚀 Recently Updated Repositories
 
 <!-- AUTO-UPDATE:START -->
-*This section updates automatically through GitHub Actions.*
+*Repository list will appear after the GitHub Actions workflow runs.*
 <!-- AUTO-UPDATE:END -->
 
 <sub>Last refreshed: <!-- LAST-UPDATED -->pending first run<!-- /LAST-UPDATED --></sub>
@@ -150,6 +175,6 @@ I'm exploring different areas of technology and discovering what I enjoy buildin
 
 <sub>One step at a time.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:222A29,50:263D35,100:397C7A&height=100&section=footer" width="100%" alt="Earth-toned footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:222A29,50:263D35,100:397C7A&height=110&section=footer" width="100%" alt="Earth-tone wave footer"/>
 
 </div>
