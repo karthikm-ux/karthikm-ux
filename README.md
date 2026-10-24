@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 <img src="./earth-banner.png" width="100%" alt="Earth from orbit" />
 
@@ -8,8 +8,8 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/BUILD-001-65B96E?style=for-the-badge&labelColor=101820" alt="Build 001" />
 <img src="https://img.shields.io/badge/SECTOR-EARTH-45F3FF?style=for-the-badge&labelColor=101820" alt="Earth sector" />
+<img src="https://img.shields.io/badge/BUILD-001-65B96E?style=for-the-badge&labelColor=101820" alt="Build 001" />
 <img src="https://img.shields.io/badge/XP-LOADING-D6C2A2?style=for-the-badge&labelColor=101820" alt="Experience loading" />
 
 </div>
@@ -18,14 +18,43 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=3000&pause=1500&color=65B96E&vCenter=true&width=400&height=35&lines=%5B+01+%5D+PLAYER+PROFILE" alt="Player Profile" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=3000&pause=1500&color=45F3FF&center=true&vCenter=true&width=450&height=35&lines=EARTH+EXPLORATION+SYSTEM;WELCOME%2C+PLAYER+ONE" alt="Earth exploration system" />
+
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=github&theme=dark" width="30" alt="GitHub" />
+<br/><b>SECTOR</b>
+<br/><code>DEVELOPER</code>
+</td>
+<td align="center">
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=25&duration=3000&pause=1000&color=65B96E&center=true&vCenter=true&width=130&height=35&lines=EARTH;ORBIT;EXPLORE" alt="Planet status" />
+<br/><b>PLANET</b>
+<br/><code>EARTH</code>
+</td>
+<td align="center">
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=25&duration=3000&pause=1000&color=45F3FF&center=true&vCenter=true&width=140&height=35&lines=ONLINE;BUILDING;LEARNING" alt="Mission status" />
+<br/><b>MISSION</b>
+<br/><code>IN PROGRESS</code>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=3000&pause=1500&color=65B96E&center=true&vCenter=true&width=400&height=35&lines=%5B+01+%5D+PLAYER+PROFILE" alt="Player Profile" />
 
 </div>
 
 - **Player:** Karthik M
 - **Class:** Developer in progress
+- **Home planet:** Earth
 - **Mission:** Turn ideas into working projects
-- **World:** Software, web technologies, and creative problem-solving
+- **Interests:** Software development, web technologies, creative problem-solving
 - **Current objective:** Learn, build, experiment, repeat
 
 <div align="center">
@@ -34,17 +63,9 @@
 
 </div>
 
----
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=3000&pause=1500&color=45F3FF&vCenter=true&width=330&height=35&lines=%5B+02+%5D+PIXEL+TERMINAL" alt="Pixel Terminal" />
-
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=24&duration=3000&pause=1200&color=65B96E&center=true&vCenter=true&width=650&height=120&lines=%3E+Booting+EarthOS...;%3E+Loading+developer+modules...;%3E+Compiling+new+ideas...;%3E+READY.+LET'S+BUILD." alt="Retro terminal animation" />
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&duration=3000&pause=1000&color=45F3FF&center=true&vCenter=true&width=500&height=35&lines=*+*+*+ORBITAL+TRANSFER+*+*+*;SATELLITE+SIGNAL+DETECTED;NEXT+SECTOR+LOADING..." alt="Orbital transfer" />
 
 </div>
 
@@ -52,11 +73,23 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=3000&pause=1500&color=D6C2A2&vCenter=true&width=400&height=35&lines=%5B+03+%5D+MISSION+LOG" alt="Mission Log" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=3000&pause=1500&color=45F3FF&center=true&vCenter=true&width=350&height=35&lines=%5B+02+%5D+PIXEL+TERMINAL" alt="Pixel Terminal" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=25&duration=3000&pause=1200&color=65B96E&center=true&vCenter=true&width=650&height=120&lines=%3E+Booting+EarthOS...;%3E+Loading+developer+modules...;%3E+Compiling+new+ideas...;%3E+READY.+LET'S+BUILD." alt="Retro terminal animation" />
 
 </div>
 
-| MISSION | PROGRESS |
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=3000&pause=1500&color=D6C2A2&center=true&vCenter=true&width=350&height=35&lines=%5B+03+%5D+MISSION+LOG" alt="Mission Log" />
+
+</div>
+
+| MISSION | STATUS |
 |:---|:---|
 | Learn new technologies | `IN PROGRESS` |
 | Build useful projects | `ACTIVE` |
@@ -67,7 +100,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=3000&pause=1500&color=65B96E&vCenter=true&width=350&height=35&lines=%5B+04+%5D+INVENTORY" alt="Inventory" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=3000&pause=1500&color=65B96E&center=true&vCenter=true&width=350&height=35&lines=%5B+04+%5D+INVENTORY" alt="Inventory" />
 
 </div>
 
@@ -89,32 +122,46 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker&theme=dark" alt="Development tools" />
 </p>
 
-### <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=9&duration=3000&pause=1500&color=65B96E&vCenter=true&width=300&height=30&lines=OTHER+TECHNOLOGIES" alt="Other Technologies" />
+### <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=9&duration=3000&pause=1500&color=548CFF&vCenter=true&width=300&height=30&lines=OTHER+TECHNOLOGIES" alt="Other Technologies" />
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,figma&theme=dark" alt="Other technologies" />
 </p>
 
----
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=3000&pause=1500&color=45F3FF&vCenter=true&width=460&height=35&lines=%5B+05+%5D+NEXT+LEVEL+UNLOCKS" alt="Next Level Unlocks" />
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&duration=3000&pause=1000&color=65B96E&center=true&vCenter=true&width=450&height=35&lines=FOREST+BIOME+%2F+OCEAN+BIOME;DESERT+BIOME+%2F+MOUNTAIN+BIOME" alt="Earth biomes" />
 
 </div>
 
-| NEXT LEVEL | OBJECTIVE |
-|:---|:---|
-| Development | Ship more projects |
-| Design | Improve digital experiences |
-| Technology | Explore new tools |
-| Problem solving | Learn by building |
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=3000&pause=1500&color=45F3FF&center=true&vCenter=true&width=450&height=35&lines=%5B+05+%5D+EXPLORATION+PROGRESS" alt="Exploration Progress" />
+
+<table>
+<tr><td>LEARNING</td><td><code>██████░░░░</code></td></tr>
+<tr><td>BUILDING</td><td><code>███████░░░</code></td></tr>
+<tr><td>EXPLORING</td><td><code>████████░░</code></td></tr>
+<tr><td>CONTRIBUTING</td><td><code>██████░░░░</code></td></tr>
+</table>
+
+</div>
 
 ---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=3000&pause=1500&color=65B96E&vCenter=true&width=420&height=35&lines=%5B+06+%5D+PLAYER+STATISTICS" alt="Player Statistics" />
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&duration=3000&pause=1000&color=45F3FF&center=true&vCenter=true&width=500&height=35&lines=*+*+*+ORBITAL+TRANSFER+*+*+*;SATELLITE+SIGNAL+DETECTED;NEXT+SECTOR+LOADING..." alt="Orbital transfer" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=3000&pause=1500&color=65B96E&center=true&vCenter=true&width=450&height=35&lines=%5B+06+%5D+PLAYER+STATISTICS" alt="Player Statistics" />
 
 <br/>
 
@@ -132,7 +179,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=3000&pause=1500&color=D6C2A2&vCenter=true&width=440&height=35&lines=%5B+07+%5D+RECENT+DISCOVERIES" alt="Recent Discoveries" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=3000&pause=1500&color=D6C2A2&center=true&vCenter=true&width=450&height=35&lines=%5B+07+%5D+RECENT+DISCOVERIES" alt="Recent Discoveries" />
 
 </div>
 
@@ -148,7 +195,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=3000&pause=1500&color=45F3FF&vCenter=true&width=450&height=35&lines=%5B+08+%5D+CONTRIBUTION+ARCADE" alt="Contribution Arcade" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=3000&pause=1500&color=45F3FF&center=true&vCenter=true&width=450&height=35&lines=%5B+08+%5D+CONTRIBUTION+ARCADE" alt="Contribution Arcade" />
 
 <br/>
 
@@ -164,7 +211,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=3000&pause=1500&color=65B96E&vCenter=true&width=330&height=35&lines=%5B+09+%5D+ESTABLISH+CONNECTION" alt="Establish Connection" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=3000&pause=1500&color=65B96E&center=true&vCenter=true&width=350&height=35&lines=%5B+09+%5D+ESTABLISH+CONNECTION" alt="Establish Connection" />
 
 <br/>
 
@@ -180,11 +227,13 @@
 
 ---
 
-<!-- SEA OF CODE: PIXEL EARTH EDITION -->
-
 <div align="center">
 
-<img src="./sea-of-code.gif" width="100%" alt="Pixel-inspired animated sea of code with a moving boat" />
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=24&duration=3000&pause=1000&color=45F3FF&center=true&vCenter=true&width=600&height=40&lines=*+*+*+STARS+ABOVE+EARTH+*+*+*;TRANSMISSION+FROM+ORBIT;GOODNIGHT%2C+EXPLORER" alt="Pixel night sky" />
+
+<br/>
+
+<img src="./sea-of-code.gif" width="100%" alt="Animated sea of code with a moving boat" />
 
 <p>
 <code>01001000 01001001</code>
