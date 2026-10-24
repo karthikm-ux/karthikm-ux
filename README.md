@@ -10,7 +10,7 @@
 
 ---
 
-## About
+## About Me
 
 I'm interested in how things work, how they're built, and how small ideas become useful products.
 
@@ -89,13 +89,13 @@ I'm interested in how things work, how they're built, and how small ideas become
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=karthikm-ux&show_icons=true&hide_border=true&bg_color=101820&title_color=65B96E&icon_color=45F3FF&text_color=D6C2A2" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=karthikm-ux&show_icons=true&hide_border=true&bg_color=071521&title_color=65B96E&icon_color=45F3FF&text_color=D6C2A2" alt="GitHub statistics" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikm-ux&layout=compact&hide_border=true&bg_color=101820&title_color=65B96E&text_color=D6C2A2" alt="Most-used languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikm-ux&layout=compact&hide_border=true&bg_color=071521&title_color=65B96E&text_color=D6C2A2" alt="Most-used languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=karthikm-ux&hide_border=true&background=101820&ring=65B96E&fire=45F3FF&currStreakLabel=65B96E&sideLabels=D6C2A2&currStreakNum=45F3FF&sideNums=D6C2A2&dates=8B9A91" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=karthikm-ux&hide_border=true&background=071521&ring=65B96E&fire=45F3FF&currStreakLabel=65B96E&sideLabels=D6C2A2&currStreakNum=45F3FF&sideNums=D6C2A2&dates=8B9A91" alt="GitHub contribution streak" />
 
 </div>
 
@@ -140,10 +140,10 @@ I'm interested in how things work, how they're built, and how small ideas become
 <div align="center">
 
 <a href="https://github.com/karthikm-ux">
-<img src="https://img.shields.io/badge/GitHub-101820?style=for-the-badge&logo=github&logoColor=65B96E" alt="GitHub profile" />
+<img src="https://img.shields.io/badge/GitHub-071521?style=for-the-badge&logo=github&logoColor=65B96E" alt="GitHub profile" />
 </a>
 <a href="https://www.linkedin.com/in/karthik-m-a3a167361/">
-<img src="https://img.shields.io/badge/LinkedIn-101820?style=for-the-badge&logo=linkedin&logoColor=45F3FF" alt="LinkedIn profile" />
+<img src="https://img.shields.io/badge/LinkedIn-071521?style=for-the-badge&logo=linkedin&logoColor=45F3FF" alt="LinkedIn profile" />
 </a>
 
 </div>
