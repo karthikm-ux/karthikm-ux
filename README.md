@@ -1,16 +1,10 @@
 <div align="center">
 
-<img src="./earth-banner.png" width="100%" alt="Earth from orbit" />
+<img src="./earth-banner.png" width="100%" alt="8-bit pixel art Earth satellite landscapes" />
 
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=3000&pause=1500&color=65B96E&center=true&vCenter=true&width=700&height=60&lines=PLAYER+ONE%3A+KARTHIK;WELCOME+TO+MY+PIXEL+WORLD;EXPLORING+THE+DIGITAL+UNIVERSE" alt="Retro pixel welcome" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/SECTOR-EARTH-45F3FF?style=for-the-badge&labelColor=101820" alt="Earth sector" />
-<img src="https://img.shields.io/badge/BUILD-001-65B96E?style=for-the-badge&labelColor=101820" alt="Build 001" />
-<img src="https://img.shields.io/badge/XP-LOADING-D6C2A2?style=for-the-badge&labelColor=101820" alt="Experience loading" />
 
 </div>
 
