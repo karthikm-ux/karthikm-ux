@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="./earth-banner.png" width="100%" alt="8-bit pixel art Earth satellite landscapes" />
+<img src="./earth-banner.png" width="100%" alt="Pixel-art satellite views of Earth" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=3000&pause=1500&color=65B96E&center=true&vCenter=true&width=700&height=60&lines=PLAYER+ONE%3A+KARTHIK;WELCOME+TO+MY+PIXEL+WORLD;EXPLORING+THE+DIGITAL+UNIVERSE" alt="Retro pixel welcome" />
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=32&duration=4000&pause=1800&color=65B96E&center=true&vCenter=true&width=650&height=50&lines=KARTHIK+M;DEVELOPER+%7C+TECHNOLOGY+%7C+DESIGN;BUILDING%2C+LEARNING%2C+ITERATING" alt="Karthik M — Developer, Technology, Design" />
 
 </div>
 
@@ -12,167 +12,63 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=3000&pause=1500&color=45F3FF&center=true&vCenter=true&width=450&height=35&lines=EARTH+EXPLORATION+SYSTEM;WELCOME%2C+PLAYER+ONE" alt="Earth exploration system" />
+<img src="./kozhikode-pixel-map.gif" width="100%" alt="Pixel-art world map highlighting Kozhikode, Kerala, India" />
 
-<table>
-<tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=github&theme=dark" width="30" alt="GitHub" />
-<br/><b>SECTOR</b>
-<br/><code>DEVELOPER</code>
-</td>
-<td align="center">
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=25&duration=3000&pause=1000&color=65B96E&center=true&vCenter=true&width=130&height=35&lines=EARTH;ORBIT;EXPLORE" alt="Planet status" />
-<br/><b>PLANET</b>
-<br/><code>EARTH</code>
-</td>
-<td align="center">
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=25&duration=3000&pause=1000&color=45F3FF&center=true&vCenter=true&width=140&height=35&lines=ONLINE;BUILDING;LEARNING" alt="Mission status" />
-<br/><b>MISSION</b>
-<br/><code>IN PROGRESS</code>
-</td>
-</tr>
-</table>
+<sub>KOZHIKODE, KERALA, INDIA</sub>
 
 </div>
 
----
+## About
+
+I'm interested in how things work, how they're built, and how small ideas become useful products.
+
+- Exploring software development and web technologies
+- Building projects to put new concepts into practice
+- Improving through experimentation and iteration
+
+## Currently working on
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=3000&pause=1500&color=65B96E&center=true&vCenter=true&width=400&height=35&lines=%5B+01+%5D+PLAYER+PROFILE" alt="Player Profile" />
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=24&duration=4000&pause=1800&color=45F3FF&center=true&vCenter=true&width=600&height=40&lines=Learning+new+technologies;Turning+ideas+into+projects;Writing+better+code;Exploring+new+approaches" alt="Current focus" />
 
 </div>
 
-- **Player:** Karthik M
-- **Class:** Developer in progress
-- **Home planet:** Earth
-- **Mission:** Turn ideas into working projects
-- **Interests:** Software development, web technologies, creative problem-solving
-- **Current objective:** Learn, build, experiment, repeat
+## Tech stack
 
-<div align="center">
-
-`[ CURIOSITY: MAX ]` ` [ STATUS: LEARNING ]`
-
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&duration=3000&pause=1000&color=45F3FF&center=true&vCenter=true&width=500&height=35&lines=*+*+*+ORBITAL+TRANSFER+*+*+*;SATELLITE+SIGNAL+DETECTED;NEXT+SECTOR+LOADING..." alt="Orbital transfer" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=3000&pause=1500&color=45F3FF&center=true&vCenter=true&width=350&height=35&lines=%5B+02+%5D+PIXEL+TERMINAL" alt="Pixel Terminal" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=25&duration=3000&pause=1200&color=65B96E&center=true&vCenter=true&width=650&height=120&lines=%3E+Booting+EarthOS...;%3E+Loading+developer+modules...;%3E+Compiling+new+ideas...;%3E+READY.+LET'S+BUILD." alt="Retro terminal animation" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=3000&pause=1500&color=D6C2A2&center=true&vCenter=true&width=350&height=35&lines=%5B+03+%5D+MISSION+LOG" alt="Mission Log" />
-
-</div>
-
-| MISSION | STATUS |
-|:---|:---|
-| Learn new technologies | `IN PROGRESS` |
-| Build useful projects | `ACTIVE` |
-| Explore new ideas | `ONGOING` |
-| Improve every day | `CONTINUOUS` |
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&duration=3000&pause=1000&color=45F3FF&center=true&vCenter=true&width=500&height=35&lines=*+*+*+ORBITAL+TRANSFER+*+*+*;SATELLITE+SIGNAL+DETECTED;NEXT+SECTOR+LOADING..." alt="Orbital transfer" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=3000&pause=1500&color=65B96E&center=true&vCenter=true&width=350&height=35&lines=%5B+04+%5D+INVENTORY" alt="Inventory" />
-
-</div>
-
-### <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=9&duration=3000&pause=1500&color=65B96E&vCenter=true&width=190&height=30&lines=LANGUAGES" alt="Languages" />
+### Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,ts&theme=dark" alt="Programming languages" />
 </p>
 
-### <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=9&duration=3000&pause=1500&color=45F3FF&vCenter=true&width=260&height=30&lines=WEB+DEVELOPMENT" alt="Web Development" />
+### Web development
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,tailwind&theme=dark" alt="Web development technologies" />
 </p>
 
-### <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=9&duration=3000&pause=1500&color=D6C2A2&vCenter=true&width=130&height=30&lines=TOOLS" alt="Tools" />
+### Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker&theme=dark" alt="Development tools" />
 </p>
 
-### <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=9&duration=3000&pause=1500&color=548CFF&vCenter=true&width=300&height=30&lines=OTHER+TECHNOLOGIES" alt="Other Technologies" />
+### Other technologies
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,figma&theme=dark" alt="Other technologies" />
 </p>
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&duration=3000&pause=1000&color=65B96E&center=true&vCenter=true&width=450&height=35&lines=FOREST+BIOME+%2F+OCEAN+BIOME;DESERT+BIOME+%2F+MOUNTAIN+BIOME" alt="Earth biomes" />
-
-</div>
-
 ---
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=3000&pause=1500&color=45F3FF&center=true&vCenter=true&width=450&height=35&lines=EARTH+MISSION+CONTROL" alt="Earth Mission Control" />
-
-<table>
-<tr>
-<td align="center" width="25%">
-🌍
-<br/><b>PLANET</b>
-<br/><code>EARTH</code>
-</td>
-<td align="center" width="25%">
-<b>SYSTEM</b>
-<br/><code>ONLINE</code>
-</td>
-<td align="center" width="25%">
-<b>MISSION</b>
-<br/><code>BUILD</code>
-</td>
-<td align="center" width="25%">
-<b>NEXT</b>
-<br/><code>EXPLORE</code>
-</td>
-</tr>
-</table>
-
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&duration=3000&pause=1200&color=65B96E&center=true&vCenter=true&width=500&height=35&lines=%3E+SIGNAL+DETECTED...;%3E+NEW+DISCOVERIES+AHEAD...;%3E+MISSION+CONTINUES..." alt="Mission telemetry" />
-
-</div>
-
----
+## GitHub activity
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=3000&pause=1500&color=65B96E&center=true&vCenter=true&width=420&height=35&lines=%5B+05+%5D+PLAYER+STATISTICS" alt="Player Statistics" />
-
-<br/>
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=karthikm-ux&show_icons=true&hide_border=true&bg_color=101820&title_color=65B96E&icon_color=45F3FF&text_color=D6C2A2" alt="GitHub statistics" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikm-ux&layout=compact&hide_border=true&bg_color=101820&title_color=65B96E&text_color=D6C2A2" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikm-ux&layout=compact&hide_border=true&bg_color=101820&title_color=65B96E&text_color=D6C2A2" alt="Most-used languages" />
 
 <br/>
 
@@ -182,50 +78,39 @@
 
 ---
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=3000&pause=1500&color=D6C2A2&center=true&vCenter=true&width=450&height=35&lines=%5B+06+%5D+RECENT+DISCOVERIES" alt="Recent Discoveries" />
-
-</div>
+## Recent projects
 
 <!-- AUTO-UPDATE:START -->
-*Repository list will appear after the GitHub Actions workflow runs.*
+*Your recent public repositories will appear here after the GitHub Actions workflow runs.*
 <!-- AUTO-UPDATE:END -->
 
-<div align="right">
 <sub>Last updated: <!-- LAST-UPDATED -->pending first run<!-- /LAST-UPDATED --></sub>
-</div>
 
 ---
 
+## Contributions
+
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=3000&pause=1500&color=45F3FF&center=true&vCenter=true&width=450&height=35&lines=%5B+07+%5D+CONTRIBUTION+ARCADE" alt="Contribution Arcade" />
-
-<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karthikm-ux/karthikm-ux/output/pacman-contribution-graph-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karthikm-ux/karthikm-ux/output/pacman-contribution-graph.svg" />
-  <img src="https://raw.githubusercontent.com/karthikm-ux/karthikm-ux/output/pacman-contribution-graph.svg" width="100%" alt="Pac-Man contribution animation" />
+  <img src="https://raw.githubusercontent.com/karthikm-ux/karthikm-ux/output/pacman-contribution-graph.svg" width="100%" alt="GitHub contributions animation" />
 </picture>
 
 </div>
 
 ---
 
+## Find me elsewhere
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=3000&pause=1500&color=65B96E&center=true&vCenter=true&width=350&height=35&lines=%5B+08+%5D+ESTABLISH+CONNECTION" alt="Establish Connection" />
-
-<br/>
-
 <a href="https://github.com/karthikm-ux">
-<img src="https://img.shields.io/badge/GITHUB-101820?style=for-the-badge&logo=github&logoColor=65B96E" alt="GitHub" />
+<img src="https://img.shields.io/badge/GitHub-101820?style=for-the-badge&logo=github&logoColor=65B96E" alt="GitHub profile" />
 </a>
-
 <a href="https://www.linkedin.com/in/karthik-m-a3a167361/">
-<img src="https://img.shields.io/badge/LINKEDIN-101820?style=for-the-badge&logo=linkedin&logoColor=45F3FF" alt="LinkedIn" />
+<img src="https://img.shields.io/badge/LinkedIn-101820?style=for-the-badge&logo=linkedin&logoColor=45F3FF" alt="LinkedIn profile" />
 </a>
 
 </div>
@@ -234,20 +119,10 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=24&duration=3000&pause=1000&color=45F3FF&center=true&vCenter=true&width=600&height=40&lines=*+*+*+STARS+ABOVE+EARTH+*+*+*;TRANSMISSION+FROM+ORBIT;GOODNIGHT%2C+EXPLORER" alt="Pixel night sky" />
+<img src="./sea-of-code.gif" width="100%" alt="Pixel-art sea with a boat sailing through code" />
 
 <br/>
 
-<img src="./sea-of-code.gif" width="100%" alt="Animated sea of code with a moving boat" />
-
-<p>
-<code>01001000 01001001</code>
-&nbsp; · &nbsp;
-<code>SAILING THROUGH IDEAS</code>
-&nbsp; · &nbsp;
-<code>01000011 01001111 01000100 01000101</code>
-</p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=9&duration=3000&pause=1500&color=65B96E&center=true&vCenter=true&width=420&height=35&lines=THANKS+FOR+VISITING;GAME+NOT+OVER...+CONTINUE%3F" alt="Thanks for visiting" />
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=24&duration=4000&pause=1800&color=65B96E&center=true&vCenter=true&width=500&height=40&lines=Thanks+for+stopping+by.;More+projects+to+come." alt="Thanks for visiting" />
 
 </div>
