@@ -5,17 +5,17 @@
 
 <div align="center">
 
+<!-- SATELLITE LANDSCAPE HEADER -->
+
 <img src="./earth-banner.png" width="100%" alt="Satellite views of rivers, forests, deserts, and mountains"/>
 
 <br/>
 
+<!-- ANIMATED TYPING INTRODUCTION -->
+
 <a href="https://github.com/karthikm-ux">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1500&color=397C7A&center=true&vCenter=true&width=650&lines=Hello%2C+welcome+to+my+profile+%F0%9F%91%8B;Learning+something+new+every+day;Exploring+ideas+and+building+projects;Still+discovering+my+path" alt="Animated introduction"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1500&color=397C7A&center=true&vCenter=true&width=650&lines=Hello%2C+welcome+to+my+profile!;Learning+something+new+every+day;Exploring+ideas+and+building+projects;Still+discovering+my+path" alt="Animated introduction"/>
 </a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=karthikm-ux&style=flat-square&color=397C7A&label=PROFILE+VISITS" alt="Profile visits"/>
 
 </div>
 
@@ -25,8 +25,7 @@
 
 Hey, I'm Karthik!
 
-I'm currently exploring different areas of technology and discovering
-what I enjoy building the most.
+I'm exploring different areas of technology and discovering what I enjoy building the most.
 
 - 🌱 Learning new tools, concepts, and technologies.
 - 🧩 Experimenting with ideas and learning through practice.
@@ -45,27 +44,19 @@ what I enjoy building the most.
 
 <img src="https://skillicons.dev/icons?i=js,ts,py,java,c,cpp&theme=dark" alt="Programming languages"/>
 
-<br/>
-
 ### 🌐 Web Development
 
 <img src="https://skillicons.dev/icons?i=html,css,react,nodejs&theme=dark" alt="Web development technologies"/>
 
-<br/>
-
-### 🛠️ Tools & Databases
+### 🗄️ Tools & Databases
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,mongodb,mysql,linux,jest,storybook&theme=dark" alt="Development tools and databases"/>
-
-<br/>
 
 ### 🔬 Other Technologies
 
 <img src="https://skillicons.dev/icons?i=matlab,arduino&theme=dark" alt="MATLAB and Arduino"/>
 
 </div>
-
-<!-- Keep only technologies you use or are actively learning. -->
 
 ---
 
@@ -98,6 +89,16 @@ what I enjoy building the most.
 <br/><br/>
 
 <img width="70%" src="https://streak-stats.demolab.com?user=karthikm-ux&hide_border=true&background=222A29&ring=91C9B7&fire=D6C2A2&currStreakLabel=91C9B7&sideLabels=E4E8DF&dates=A7B2AA&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak"/>
+
+</div>
+
+---
+
+## 🌎 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=karthikm-ux&bg_color=222A29&color=91C9B7&line=397C7A&point=D6C2A2&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
 
 </div>
 
@@ -149,9 +150,6 @@ what I enjoy building the most.
 
 <sub>One step at a time.</sub>
 
-<br/><br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:222A29,50:263D35,100:397C7A&height=100&section=footer" width="100%" alt="Earth-toned footer"/>
 
 </div>
-
