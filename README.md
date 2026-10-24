@@ -41,34 +41,49 @@ what I enjoy building the most.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,html,css,py,nodejs,mongodb,mysql,java,c,cpp,git,github,vscode,figma,linux,jest,storybook&theme=dark" alt="Technology icons"/>
+### 💻 Languages
 
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=js,ts,py,java,c,cpp&theme=dark" alt="Programming languages"/>
 
-<img src="https://skillicons.dev/icons?i=matlab,fedora,arduino,canva&theme=dark" alt="Additional technology icons"/>
+<br/>
+
+### 🌐 Web Development
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs&theme=dark" alt="Web development technologies"/>
+
+<br/>
+
+### 🛠️ Tools & Databases
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,mongodb,mysql,linux,jest,storybook&theme=dark" alt="Development tools and databases"/>
+
+<br/>
+
+### 🔬 Other Technologies
+
+<img src="https://skillicons.dev/icons?i=matlab,arduino&theme=dark" alt="MATLAB and Arduino"/>
 
 </div>
 
-<!-- Remove icons for technologies you do not use or know yet. -->
+<!-- Keep only technologies you use or are actively learning. -->
 
 ---
 
-## 🚀 Featured Projects
-
-<!-- Replace YOUR_PROJECT_1 and YOUR_PROJECT_2 with real repository names.
-     If you have no projects to feature yet, remove this entire section. -->
+## 🌱 Currently Exploring
 
 <div align="center">
 
-<a href="https://github.com/karthikm-ux">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=karthikm-ux&repo=YOUR_PROJECT_1&bg_color=222A29&title_color=91C9B7&icon_color=D6C2A2&text_color=E4E8DF&hide_border=true" alt="Featured project one"/>
-</a>
-
-<a href="https://github.com/karthikm-ux">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=karthikm-ux&repo=YOUR_PROJECT_2&bg_color=222A29&title_color=91C9B7&icon_color=D6C2A2&text_color=E4E8DF&hide_border=true" alt="Featured project two"/>
-</a>
+| Area | Focus |
+|:---:|:---|
+| 💻 | Learning new programming concepts |
+| 🛠️ | Experimenting with development tools |
+| 🌐 | Exploring web technologies |
+| 🧩 | Practicing problem-solving |
+| 🚀 | Building skills through hands-on learning |
 
 </div>
+
+> Curious about technology, open to new ideas, and learning one step at a time.
 
 ---
 
@@ -106,7 +121,7 @@ what I enjoy building the most.
 
 <div align="center">
 
-<!-- This is a placeholder until your Spotify integration is configured. -->
+<!-- Replace this badge with your live Spotify widget after configuration. -->
 
 <a href="https://open.spotify.com/">
   <img src="https://img.shields.io/badge/Spotify-Connect%20player-397C7A?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
@@ -124,9 +139,6 @@ what I enjoy building the most.
   <img src="https://img.shields.io/badge/GitHub-karthikm--ux-263D35?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
 </a>
 
-<!-- Add LinkedIn, Instagram, Discord, or other badges once you have
-     the correct profile URLs. -->
-
 </div>
 
 ---
@@ -142,3 +154,4 @@ what I enjoy building the most.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:222A29,50:263D35,100:397C7A&height=100&section=footer" width="100%" alt="Earth-toned footer"/>
 
 </div>
+
