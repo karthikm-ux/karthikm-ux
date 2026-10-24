@@ -1,4 +1,4 @@
-
+ 
 <!-- ========================================= -->
 <!-- KARTHIK | EARTH & SATELLITE THEME         -->
 <!-- ========================================= -->
@@ -6,15 +6,13 @@
 <div align="center">
 
 <!-- SATELLITE LANDSCAPE HEADER -->
-
 <img src="./earth-banner.png" width="100%" alt="Satellite views of rivers, forests, deserts, and mountains"/>
 
 <br/>
 
-<!-- ANIMATED TYPING INTRODUCTION -->
-
+<!-- ANIMATED TYPING INTRO -->
 <a href="https://github.com/karthikm-ux">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1500&color=397C7A&center=true&vCenter=true&width=650&lines=Hello%2C+welcome+to+my+profile!;Learning+something+new+every+day;Exploring+ideas+and+building+projects;Still+discovering+my+path" alt="Animated introduction"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&duration=3200&color=91C9B7&center=true&vCenter=true&width=700&height=100&lines=Hello%2C+welcome+to+my+profile!;whoami+%E2%86%92+Karthik;Currently+exploring+new+technologies...;learning();+experimenting();+building();;git+commit+-m+%22keep+learning%22" alt="Animated terminal-style introduction"/>
 </a>
 
 </div>
@@ -35,13 +33,16 @@ I'm exploring different areas of technology and discovering what I enjoy buildin
 **Currently:** Learning, experimenting, and figuring out what comes next.
 
 ---
+
+## `>_` Terminal
+
 <div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:263D35,50:397C7A,100:D6C2A2"
-    width="100%"
-    alt="Earth-tone section divider"
-  />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=900&duration=2500&color=D6C2A2&background=222A2900&center=true&vCenter=true&width=650&height=130&lines=%24+whoami;Karthik+%7C+Curious+learner;%24+status;Exploring+%E2%80%A2+Experimenting+%E2%80%A2+Building;%24+git+status;On+the+journey+to+something+new..." alt="Animated terminal showing learning status"/>
+
 </div>
+
+---
 
 ## ⚡ Tech Stack
 
@@ -83,9 +84,13 @@ I'm exploring different areas of technology and discovering what I enjoy buildin
 
 > Curious about technology, open to new ideas, and learning one step at a time.
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:263D35,50:397C7A,100:D6C2A2" width="100%" alt="Earth-tone section divider"/>
+</div>
+
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -96,16 +101,6 @@ I'm exploring different areas of technology and discovering what I enjoy buildin
 <br/><br/>
 
 <img width="70%" src="https://streak-stats.demolab.com?user=karthikm-ux&hide_border=true&background=222A29&ring=91C9B7&fire=D6C2A2&currStreakLabel=91C9B7&sideLabels=E4E8DF&dates=A7B2AA&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak"/>
-
-</div>
-
----
-
-## 🌎 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=karthikm-ux&bg_color=222A29&color=91C9B7&line=397C7A&point=D6C2A2&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
 
 </div>
 
@@ -125,26 +120,16 @@ I'm exploring different areas of technology and discovering what I enjoy buildin
 
 ---
 
-## 🎧 Recently Played on Spotify
-
-<div align="center">
-
-<!-- Replace this badge with your live Spotify widget after configuration. -->
-
-<a href="https://open.spotify.com/">
-  <img src="https://img.shields.io/badge/Spotify-Connect%20player-397C7A?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
-</a>
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/karthikm-ux">
   <img src="https://img.shields.io/badge/GitHub-karthikm--ux-263D35?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-397C7A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/>
 </a>
 
 </div>
