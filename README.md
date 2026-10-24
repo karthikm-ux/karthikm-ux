@@ -5,12 +5,10 @@
 
 <div align="center">
 
-<!-- SATELLITE LANDSCAPE HEADER -->
 <img src="./earth-banner.png" width="100%" alt="Satellite views of rivers, forests, deserts, and mountains"/>
 
 <br/>
 
-<!-- ANIMATED TYPING INTRO -->
 <a href="https://github.com/karthikm-ux">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&duration=3200&color=91C9B7&center=true&vCenter=true&width=700&height=100&lines=Hello%2C+welcome+to+my+profile!;whoami+%E2%86%92+Karthik;Currently+exploring+new+technologies...;learning();+experimenting();+building();;git+commit+-m+%22keep+learning%22" alt="Animated terminal-style introduction"/>
 </a>
@@ -103,6 +101,16 @@ I'm exploring different areas of technology and discovering what I enjoy buildin
 <img width="70%" src="https://streak-stats.demolab.com?user=karthikm-ux&hide_border=true&background=222A29&ring=91C9B7&fire=D6C2A2&currStreakLabel=91C9B7&sideLabels=E4E8DF&dates=A7B2AA&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak"/>
 
 </div>
+
+---
+
+## 🚀 Recently Updated Repositories
+
+<!-- AUTO-UPDATE:START -->
+*This section updates automatically through GitHub Actions.*
+<!-- AUTO-UPDATE:END -->
+
+<sub>Last refreshed: <!-- LAST-UPDATED -->pending first run<!-- /LAST-UPDATED --></sub>
 
 ---
 
