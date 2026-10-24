@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="./assets/earth-banner.png" width="100%" alt="Satellite views of rivers, forests, deserts, and mountains"/>
+<img src="./earth-banner.png" width="100%" alt="Satellite views of rivers, forests, deserts, and mountains"/>
 
 <br/>
 
@@ -55,8 +55,8 @@ what I enjoy building the most.
 
 ## 🚀 Featured Projects
 
-<!-- Replace the placeholders below with your actual repository names.
-     If you don't have projects to showcase yet, remove this section. -->
+<!-- Replace YOUR_PROJECT_1 and YOUR_PROJECT_2 with real repository names.
+     If you have no projects to feature yet, remove this entire section. -->
 
 <div align="center">
 
@@ -106,8 +106,7 @@ what I enjoy building the most.
 
 <div align="center">
 
-<!-- Replace this badge with the image URL from your configured
-     Spotify recently-played integration. -->
+<!-- This is a placeholder until your Spotify integration is configured. -->
 
 <a href="https://open.spotify.com/">
   <img src="https://img.shields.io/badge/Spotify-Connect%20player-397C7A?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
@@ -125,8 +124,8 @@ what I enjoy building the most.
   <img src="https://img.shields.io/badge/GitHub-karthikm--ux-263D35?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
 </a>
 
-<!-- Add LinkedIn, Instagram, Discord, or other badges only when
-     you have the correct profile URLs to link them to. -->
+<!-- Add LinkedIn, Instagram, Discord, or other badges once you have
+     the correct profile URLs. -->
 
 </div>
 
