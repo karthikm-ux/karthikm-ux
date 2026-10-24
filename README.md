@@ -35,6 +35,13 @@ I'm exploring different areas of technology and discovering what I enjoy buildin
 **Currently:** Learning, experimenting, and figuring out what comes next.
 
 ---
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:263D35,50:397C7A,100:D6C2A2"
+    width="100%"
+    alt="Earth-tone section divider"
+  />
+</div>
 
 ## ⚡ Tech Stack
 
