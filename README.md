@@ -23,7 +23,9 @@
 
 ---
 
-## 🌍 About Me
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&duration=2200&color=91C9B7&background=222A29&center=true&vCenter=true&width=650&height=44&lines=01+%2F+ABOUT+ME" alt="01 / ABOUT ME"/>
+</h2>
 
 Hey, I'm Karthik!
 
@@ -38,7 +40,9 @@ I'm exploring different areas of technology, learning new tools, and discovering
 
 ---
 
-## `>_` Terminal
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&duration=2200&color=91C9B7&background=222A29&center=true&vCenter=true&width=650&height=44&lines=02+%2F+TERMINAL" alt="02 / TERMINAL"/>
+</h2>
 
 <div align="center">
 
@@ -52,7 +56,9 @@ I'm exploring different areas of technology, learning new tools, and discovering
 
 ---
 
-## 🛰️ Mission Status
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&duration=2200&color=91C9B7&background=222A29&center=true&vCenter=true&width=650&height=44&lines=03+%2F+MISSION+STATUS" alt="03 / MISSION STATUS"/>
+</h2>
 
 <div align="center">
 
@@ -67,23 +73,25 @@ I'm exploring different areas of technology, learning new tools, and discovering
 
 ---
 
-## ⚡ Tech Stack
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&duration=2200&color=91C9B7&background=222A29&center=true&vCenter=true&width=650&height=44&lines=04+%2F+TECH+STACK" alt="04 / TECH STACK"/>
+</h2>
 
 <div align="center">
 
-### 💻 Languages
+### Languages
 
 <img src="https://skillicons.dev/icons?i=js,ts,py,java,c,cpp&theme=dark" alt="Programming language icons"/>
 
-### 🌐 Web Development
+### Web Development
 
 <img src="https://skillicons.dev/icons?i=html,css,react,nodejs&theme=dark" alt="Web development icons"/>
 
-### 🧰 Tools & Databases
+### Tools & Databases
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,mongodb,mysql,linux,jest,storybook&theme=dark" alt="Tools and database icons"/>
 
-### 🔬 Other Technologies
+### Other Technologies
 
 <img src="https://skillicons.dev/icons?i=matlab,arduino&theme=dark" alt="MATLAB and Arduino icons"/>
 
@@ -91,7 +99,9 @@ I'm exploring different areas of technology, learning new tools, and discovering
 
 ---
 
-## 🌱 Currently Exploring
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&duration=2200&color=91C9B7&background=222A29&center=true&vCenter=true&width=650&height=44&lines=05+%2F+CURRENTLY+EXPLORING" alt="05 / CURRENTLY EXPLORING"/>
+</h2>
 
 <div align="center">
 
@@ -107,7 +117,9 @@ I'm exploring different areas of technology, learning new tools, and discovering
 
 ---
 
-## 📊 GitHub Statistics
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&duration=2200&color=91C9B7&background=222A29&center=true&vCenter=true&width=650&height=44&lines=06+%2F+GITHUB+STATISTICS" alt="06 / GITHUB STATISTICS"/>
+</h2>
 
 <div align="center">
 
@@ -123,7 +135,9 @@ I'm exploring different areas of technology, learning new tools, and discovering
 
 ---
 
-## 🚀 Recently Updated Repositories
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&duration=2200&color=91C9B7&background=222A29&center=true&vCenter=true&width=650&height=44&lines=07+%2F+RECENT+REPOSITORIES" alt="07 / RECENT REPOSITORIES"/>
+</h2>
 
 <!-- AUTO-UPDATE:START -->
 *Repository list will appear after the GitHub Actions workflow runs.*
@@ -133,7 +147,9 @@ I'm exploring different areas of technology, learning new tools, and discovering
 
 ---
 
-## 👾 Pac-Man Contribution Animation
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&duration=2200&color=91C9B7&background=222A29&center=true&vCenter=true&width=650&height=44&lines=08+%2F+PAC-MAN+CONTRIBUTIONS" alt="08 / PAC-MAN CONTRIBUTIONS"/>
+</h2>
 
 <div align="center">
 
@@ -147,7 +163,9 @@ I'm exploring different areas of technology, learning new tools, and discovering
 
 ---
 
-## 🌐 Connect With Me
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&duration=2200&color=91C9B7&background=222A29&center=true&vCenter=true&width=650&height=44&lines=09+%2F+CONNECT" alt="09 / CONNECT"/>
+</h2>
 
 <div align="center">
 
@@ -165,7 +183,7 @@ I'm exploring different areas of technology, learning new tools, and discovering
 
 <div align="center">
 
-### 🌿 Learn. Explore. Build.
+### Learn. Explore. Build.
 
 <sub>One step at a time.</sub>
 
