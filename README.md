@@ -61,10 +61,6 @@
 
 `[ CURIOSITY: MAX ]` ` [ STATUS: LEARNING ]`
 
-</div>
-
-<div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&duration=3000&pause=1000&color=45F3FF&center=true&vCenter=true&width=500&height=35&lines=*+*+*+ORBITAL+TRANSFER+*+*+*;SATELLITE+SIGNAL+DETECTED;NEXT+SECTOR+LOADING..." alt="Orbital transfer" />
 
 </div>
@@ -95,6 +91,12 @@
 | Build useful projects | `ACTIVE` |
 | Explore new ideas | `ONGOING` |
 | Improve every day | `CONTINUOUS` |
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&duration=3000&pause=1000&color=45F3FF&center=true&vCenter=true&width=500&height=35&lines=*+*+*+ORBITAL+TRANSFER+*+*+*;SATELLITE+SIGNAL+DETECTED;NEXT+SECTOR+LOADING..." alt="Orbital transfer" />
+
+</div>
 
 ---
 
@@ -138,22 +140,31 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=3000&pause=1500&color=45F3FF&center=true&vCenter=true&width=450&height=35&lines=%5B+05+%5D+EXPLORATION+PROGRESS" alt="Exploration Progress" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=3000&pause=1500&color=45F3FF&center=true&vCenter=true&width=450&height=35&lines=EARTH+MISSION+CONTROL" alt="Earth Mission Control" />
 
 <table>
-<tr><td>LEARNING</td><td><code>██████░░░░</code></td></tr>
-<tr><td>BUILDING</td><td><code>███████░░░</code></td></tr>
-<tr><td>EXPLORING</td><td><code>████████░░</code></td></tr>
-<tr><td>CONTRIBUTING</td><td><code>██████░░░░</code></td></tr>
+<tr>
+<td align="center" width="25%">
+🌍
+<br/><b>PLANET</b>
+<br/><code>EARTH</code>
+</td>
+<td align="center" width="25%">
+<b>SYSTEM</b>
+<br/><code>ONLINE</code>
+</td>
+<td align="center" width="25%">
+<b>MISSION</b>
+<br/><code>BUILD</code>
+</td>
+<td align="center" width="25%">
+<b>NEXT</b>
+<br/><code>EXPLORE</code>
+</td>
+</tr>
 </table>
 
-</div>
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&duration=3000&pause=1000&color=45F3FF&center=true&vCenter=true&width=500&height=35&lines=*+*+*+ORBITAL+TRANSFER+*+*+*;SATELLITE+SIGNAL+DETECTED;NEXT+SECTOR+LOADING..." alt="Orbital transfer" />
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&duration=3000&pause=1200&color=65B96E&center=true&vCenter=true&width=500&height=35&lines=%3E+SIGNAL+DETECTED...;%3E+NEW+DISCOVERIES+AHEAD...;%3E+MISSION+CONTINUES..." alt="Mission telemetry" />
 
 </div>
 
@@ -161,7 +172,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=3000&pause=1500&color=65B96E&center=true&vCenter=true&width=450&height=35&lines=%5B+06+%5D+PLAYER+STATISTICS" alt="Player Statistics" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=3000&pause=1500&color=65B96E&center=true&vCenter=true&width=420&height=35&lines=%5B+05+%5D+PLAYER+STATISTICS" alt="Player Statistics" />
 
 <br/>
 
@@ -179,7 +190,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=3000&pause=1500&color=D6C2A2&center=true&vCenter=true&width=450&height=35&lines=%5B+07+%5D+RECENT+DISCOVERIES" alt="Recent Discoveries" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=3000&pause=1500&color=D6C2A2&center=true&vCenter=true&width=450&height=35&lines=%5B+06+%5D+RECENT+DISCOVERIES" alt="Recent Discoveries" />
 
 </div>
 
@@ -195,7 +206,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=3000&pause=1500&color=45F3FF&center=true&vCenter=true&width=450&height=35&lines=%5B+08+%5D+CONTRIBUTION+ARCADE" alt="Contribution Arcade" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=3000&pause=1500&color=45F3FF&center=true&vCenter=true&width=450&height=35&lines=%5B+07+%5D+CONTRIBUTION+ARCADE" alt="Contribution Arcade" />
 
 <br/>
 
@@ -211,7 +222,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=3000&pause=1500&color=65B96E&center=true&vCenter=true&width=350&height=35&lines=%5B+09+%5D+ESTABLISH+CONNECTION" alt="Establish Connection" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=3000&pause=1500&color=65B96E&center=true&vCenter=true&width=350&height=35&lines=%5B+08+%5D+ESTABLISH+CONNECTION" alt="Establish Connection" />
 
 <br/>
 
