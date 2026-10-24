@@ -65,8 +65,6 @@ I'm exploring different areas of technology, learning new tools, and discovering
 
 </div>
 
-<sub>Mission status is a personal progress summary, not live system telemetry.</sub>
-
 ---
 
 ## ⚡ Tech Stack
@@ -90,8 +88,6 @@ I'm exploring different areas of technology, learning new tools, and discovering
 <img src="https://skillicons.dev/icons?i=matlab,arduino&theme=dark" alt="MATLAB and Arduino icons"/>
 
 </div>
-
-<sub>Keep only technologies you've actually used or explored.</sub>
 
 ---
 
@@ -125,8 +121,6 @@ I'm exploring different areas of technology, learning new tools, and discovering
 
 </div>
 
-<sub>Statistics are loaded from external services and may occasionally be cached or unavailable.</sub>
-
 ---
 
 ## 🚀 Recently Updated Repositories
@@ -135,7 +129,7 @@ I'm exploring different areas of technology, learning new tools, and discovering
 *Repository list will appear after the GitHub Actions workflow runs.*
 <!-- AUTO-UPDATE:END -->
 
-<sub>Last refreshed: <!-- LAST-UPDATED -->pending first run<!-- /LAST-UPDATED --></sub>
+<sub>Last updated: <!-- LAST-UPDATED -->pending first run<!-- /LAST-UPDATED --></sub>
 
 ---
 
