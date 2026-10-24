@@ -1,77 +1,88 @@
 
-<!-- PURPLE NEON PROFILE HEADER -->
+<!-- ========================================= -->
+<!-- KARTHIK | EARTH & SATELLITE THEME         -->
+<!-- ========================================= -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0D0B1A,50:581C87,100:A855F7&text=KARTHIK&fontSize=55&fontColor=FFFFFF&fontAlignY=40&animation=twinkling" alt="Purple animated header"/>
-
-<a href="https://github.com/karthikm-ux">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=C084FC&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+profile!;Exploring+Web+Development;Learning+%7C+Building+%7C+Improving" alt="Typing animation"/>
-</a>
+<img src="./assets/earth-banner.png" width="100%" alt="Satellite views of rivers, forests, deserts, and mountains"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=karthikm-ux&style=for-the-badge&color=7E22CE&label=PROFILE+VIEWS" alt="Profile views"/>
+<a href="https://github.com/karthikm-ux">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1500&color=397C7A&center=true&vCenter=true&width=650&lines=Hello%2C+welcome+to+my+profile+%F0%9F%91%8B;Learning+something+new+every+day;Exploring+ideas+and+building+projects;Still+discovering+my+path" alt="Animated introduction"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=karthikm-ux&style=flat-square&color=397C7A&label=PROFILE+VISITS" alt="Profile visits"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🌍 About Me
 
-- 👋 Hi, I'm Karthik.
-- 💻 Interested in web development and digital experiences.
-- 🌱 Learning by building projects and experimenting with technology.
-- 🚀 Focused on continuous improvement and practical projects.
+Hey, I'm Karthik!
+
+I'm currently exploring different areas of technology and discovering
+what I enjoy building the most.
+
+- 🌱 Learning new tools, concepts, and technologies.
+- 🧩 Experimenting with ideas and learning through practice.
+- 🔍 Exploring different possibilities before choosing a direction.
+- 🚀 Working toward building projects of my own.
+
+**Currently:** Learning, experimenting, and figuring out what comes next.
+
+---
 
 ## ⚡ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,html,css,py,nodejs,mongodb,mysql,java,c,cpp,git,github,vscode,figma,linux,jest,storybook&theme=dark" alt="Technology stack"/>
+<img src="https://skillicons.dev/icons?i=js,ts,react,html,css,py,nodejs,mongodb,mysql,java,c,cpp,git,github,vscode,figma,linux,jest,storybook&theme=dark" alt="Technology icons"/>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=matlab,fedora,arduino,canva&theme=dark" alt="Additional technology icons"/>
 
 </div>
 
-<!-- Remove any icons for technologies you do not use. -->
+<!-- Remove icons for technologies you do not use or know yet. -->
 
 ---
 
 ## 🚀 Featured Projects
 
-<!-- Replace these examples with real repository names. -->
+<!-- Replace the placeholders below with your actual repository names.
+     If you don't have projects to showcase yet, remove this section. -->
 
 <div align="center">
 
 <a href="https://github.com/karthikm-ux">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=karthikm-ux&repo=YOUR_PROJECT_1&theme=midnight-purple&hide_border=true" alt="Featured project one"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=karthikm-ux&repo=YOUR_PROJECT_1&bg_color=222A29&title_color=91C9B7&icon_color=D6C2A2&text_color=E4E8DF&hide_border=true" alt="Featured project one"/>
 </a>
 
 <a href="https://github.com/karthikm-ux">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=karthikm-ux&repo=YOUR_PROJECT_2&theme=midnight-purple&hide_border=true" alt="Featured project two"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=karthikm-ux&repo=YOUR_PROJECT_2&bg_color=222A29&title_color=91C9B7&icon_color=D6C2A2&text_color=E4E8DF&hide_border=true" alt="Featured project two"/>
 </a>
 
 </div>
 
-<!-- Replace YOUR_PROJECT_1 and YOUR_PROJECT_2 with actual repository names.
-     Delete this section if you don't have projects to feature yet. -->
-
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=karthikm-ux&show_icons=true&theme=midnight-purple&hide_border=true" alt="GitHub statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=karthikm-ux&show_icons=true&hide_border=true&bg_color=222A29&title_color=91C9B7&icon_color=D6C2A2&text_color=E4E8DF" alt="GitHub statistics"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikm-ux&layout=compact&theme=midnight-purple&hide_border=true" alt="Top languages"/>
-
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=karthikm-ux&theme=midnight-purple&hide_border=true" alt="GitHub contribution streak"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikm-ux&layout=compact&hide_border=true&bg_color=222A29&title_color=91C9B7&text_color=E4E8DF" alt="Most used languages"/>
 
 <br/><br/>
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=karthikm-ux&theme=dracula&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub trophies"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=karthikm-ux&hide_border=true&background=222A29&ring=91C9B7&fire=D6C2A2&currStreakLabel=91C9B7&sideLabels=E4E8DF&dates=A7B2AA&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak"/>
 
 </div>
 
@@ -79,11 +90,15 @@
 
 ## 👾 Pac-Man Contribution Animation
 
+<div align="center">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karthikm-ux/karthikm-ux/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karthikm-ux/karthikm-ux/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution animation" src="https://raw.githubusercontent.com/karthikm-ux/karthikm-ux/output/pacman-contribution-graph.svg" width="100%">
+  <img src="https://raw.githubusercontent.com/karthikm-ux/karthikm-ux/output/pacman-contribution-graph.svg" width="100%" alt="Pac-Man contribution animation"/>
 </picture>
+
+</div>
 
 ---
 
@@ -91,11 +106,11 @@
 
 <div align="center">
 
-<!-- Replace this placeholder with your Spotify integration's generated image URL
-     after completing its setup. -->
+<!-- Replace this badge with the image URL from your configured
+     Spotify recently-played integration. -->
 
 <a href="https://open.spotify.com/">
-  <img src="https://img.shields.io/badge/Spotify-Connect%20player-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
+  <img src="https://img.shields.io/badge/Spotify-Connect%20player-397C7A?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
 </a>
 
 </div>
@@ -107,17 +122,24 @@
 <div align="center">
 
 <a href="https://github.com/karthikm-ux">
-  <img src="https://img.shields.io/badge/GitHub-karthikm--ux-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-karthikm--ux-263D35?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
 </a>
 
-<!-- Add other badges only after replacing their links with your real profiles. -->
+<!-- Add LinkedIn, Instagram, Discord, or other badges only when
+     you have the correct profile URLs to link them to. -->
 
 </div>
 
+---
+
 <div align="center">
 
-### ✨ Keep Learning. Keep Building. Keep Creating.
+### 🌿 Learn. Explore. Build.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0B1A,50:581C87,100:A855F7&height=100&section=footer" alt="Purple footer"/>
+<sub>One step at a time.</sub>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:222A29,50:263D35,100:397C7A&height=100&section=footer" width="100%" alt="Earth-toned footer"/>
 
 </div>
