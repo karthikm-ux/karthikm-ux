@@ -1,142 +1,142 @@
 
 <!-- =========================================== -->
-<!-- KARTHIK | EARTH-OBSERVATION PROFILE          -->
+<!-- KARTHIK | SATELLITE CONSOLE                  -->
 <!-- =========================================== -->
 
 <div align="center">
 
-<img src="./earth-banner.png" width="100%" alt="Satellite landscape of rivers, forests, and mountains"/>
+<img src="./earth-banner.png" width="100%" alt="Satellite landscape of rivers, forests, deserts, and mountains"/>
 
 <br/>
 
 <a href="https://github.com/karthikm-ux">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&duration=3000&color=91C9B7&center=true&vCenter=true&width=700&height=100&lines=Welcome+to+my+digital+landscape;whoami+%E2%86%92+Karthik;Learning.+Exploring.+Building.;Initializing+new+ideas...;git+commit+-m+%22keep+learning%22" alt="Animated welcome and terminal messages"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&pause=350&duration=900&color=45F3FF&background=10182000&center=true&vCenter=true&width=750&height=95&lines=KARTHIK+%2F+ONLINE;LEARNING+%2F+EXPLORING+%2F+BUILDING;INITIALIZING+NEXT+PROJECT...;SYSTEM.READY();" alt="Fast animated profile introduction"/>
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-263D35?style=for-the-badge&labelColor=222A29" alt="System online"/>
-<img src="https://img.shields.io/badge/MODE-EXPLORING-397C7A?style=for-the-badge&labelColor=222A29" alt="Exploring mode"/>
-<img src="https://img.shields.io/badge/NEXT-BUILDING-D6C2A2?style=for-the-badge&labelColor=222A29" alt="Next objective: building"/>
+<img src="https://img.shields.io/badge/STATUS-ONLINE-45F3FF?style=for-the-badge&labelColor=101820" alt="Online"/>
+<img src="https://img.shields.io/badge/MODE-EXPLORING-548CFF?style=for-the-badge&labelColor=101820" alt="Exploring"/>
+<img src="https://img.shields.io/badge/NEXT-BUILDING-FF786B?style=for-the-badge&labelColor=101820" alt="Building"/>
 
 </div>
 
 ---
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&duration=2200&color=91C9B7&background=222A29&center=true&vCenter=true&width=650&height=44&lines=01+%2F+ABOUT+ME" alt="01 / ABOUT ME"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=350&duration=900&color=45F3FF&background=101820&center=true&vCenter=true&width=650&height=48&lines=01+%2F+ABOUT+ME;01+%2F+ABOUT+ME+_" alt="About Me animated heading"/>
 </h2>
 
 Hey, I'm Karthik!
 
 I'm exploring different areas of technology, learning new tools, and discovering what I enjoy building most.
 
-- 🌱 Learning new programming concepts and technologies.
-- 🧩 Experimenting with ideas and learning through practice.
-- 🔍 Exploring different areas before choosing a direction.
-- 🚀 Working toward building and sharing projects of my own.
+- Learning new programming concepts and technologies.
+- Experimenting with ideas and learning through practice.
+- Exploring different areas before choosing a direction.
+- Working toward building and sharing projects of my own.
 
 > Curious by nature. Learning one step at a time.
 
 ---
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&duration=2200&color=91C9B7&background=222A29&center=true&vCenter=true&width=650&height=44&lines=02+%2F+TERMINAL" alt="02 / TERMINAL"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=350&duration=900&color=45F3FF&background=101820&center=true&vCenter=true&width=650&height=48&lines=02+%2F+TERMINAL;02+%2F+TERMINAL+_" alt="Terminal animated heading"/>
 </h2>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1000&duration=2500&color=D6C2A2&background=222A2900&center=true&vCenter=true&width=650&height=140&lines=%24+whoami;Karthik+%7C+Curious+learner;%24+system.status();EXPLORING+%7C+LEARNING+%7C+BUILDING;%24+git+status;Finding+the+next+thing+to+build...;%24+echo+%22Stay+curious%22;Stay+curious." alt="Animated terminal readout"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=450&duration=1000&color=FF786B&background=10182000&center=true&vCenter=true&width=700&height=145&lines=%24+whoami;Karthik;%24+system.status();EXPLORING;%24+git+status;Learning+and+building...;%24+next();;New+ideas+loading..." alt="Fast animated terminal readout"/>
 
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:263D35,50:397C7A,100:D6C2A2" width="100%" alt="Earth-tone divider"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:45F3FF,50:548CFF,100:FF786B" width="100%" alt="Cyan blue coral divider"/>
 </div>
 
 ---
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&duration=2200&color=91C9B7&background=222A29&center=true&vCenter=true&width=650&height=44&lines=03+%2F+MISSION+STATUS" alt="03 / MISSION STATUS"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=350&duration=900&color=45F3FF&background=101820&center=true&vCenter=true&width=650&height=48&lines=03+%2F+MISSION+STATUS;03+%2F+MISSION+STATUS+_" alt="Mission status animated heading"/>
 </h2>
 
 <div align="center">
 
 | Mission | Current status |
 |:---|:---|
-| 🌱 Learning | Exploring new technologies |
-| 🔍 Discovery | Finding areas of interest |
-| 🛠️ Practice | Experimenting with ideas |
-| 🚀 Next objective | Build and share a project |
+| Learning | Exploring new technologies |
+| Discovery | Finding areas of interest |
+| Practice | Experimenting with ideas |
+| Next objective | Build and share a project |
 
 </div>
 
 ---
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&duration=2200&color=91C9B7&background=222A29&center=true&vCenter=true&width=650&height=44&lines=04+%2F+TECH+STACK" alt="04 / TECH STACK"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=350&duration=900&color=45F3FF&background=101820&center=true&vCenter=true&width=650&height=48&lines=04+%2F+TECH+STACK;04+%2F+TECH+STACK+_" alt="Tech stack animated heading"/>
 </h2>
 
 <div align="center">
 
-### Languages
+### LANGUAGES
 
-<img src="https://skillicons.dev/icons?i=js,ts,py,java,c,cpp&theme=dark" alt="Programming language icons"/>
+<img src="https://skillicons.dev/icons?i=js,ts,py,java,c,cpp&theme=dark" alt="Programming languages"/>
 
-### Web Development
+### WEB DEVELOPMENT
 
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs&theme=dark" alt="Web development icons"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs&theme=dark" alt="Web development technologies"/>
 
-### Tools & Databases
+### TOOLS & DATABASES
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,mongodb,mysql,linux,jest,storybook&theme=dark" alt="Tools and database icons"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,mongodb,mysql,linux,jest,storybook&theme=dark" alt="Tools and databases"/>
 
-### Other Technologies
+### OTHER TECHNOLOGIES
 
-<img src="https://skillicons.dev/icons?i=matlab,arduino&theme=dark" alt="MATLAB and Arduino icons"/>
+<img src="https://skillicons.dev/icons?i=matlab,arduino&theme=dark" alt="MATLAB and Arduino"/>
 
 </div>
 
 ---
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&duration=2200&color=91C9B7&background=222A29&center=true&vCenter=true&width=650&height=44&lines=05+%2F+CURRENTLY+EXPLORING" alt="05 / CURRENTLY EXPLORING"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=350&duration=900&color=45F3FF&background=101820&center=true&vCenter=true&width=650&height=48&lines=05+%2F+CURRENTLY+EXPLORING;05+%2F+CURRENTLY+EXPLORING+_" alt="Currently exploring animated heading"/>
 </h2>
 
 <div align="center">
 
 | Focus | Objective |
 |:---:|:---|
-| 💻 | Learn programming concepts |
-| 🛠️ | Experiment with development tools |
-| 🌐 | Explore web technologies |
-| 🧩 | Practice problem-solving |
-| 🚀 | Turn learning into projects |
+| Programming | Learn core concepts |
+| Development | Experiment with tools |
+| Web | Explore web technologies |
+| Problem-solving | Practice through challenges |
+| Projects | Turn learning into something real |
 
 </div>
 
 ---
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&duration=2200&color=91C9B7&background=222A29&center=true&vCenter=true&width=650&height=44&lines=06+%2F+GITHUB+STATISTICS" alt="06 / GITHUB STATISTICS"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=350&duration=900&color=45F3FF&background=101820&center=true&vCenter=true&width=650&height=48&lines=06+%2F+GITHUB+STATISTICS;06+%2F+GITHUB+STATISTICS+_" alt="GitHub statistics animated heading"/>
 </h2>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=karthikm-ux&show_icons=true&hide_border=true&bg_color=222A29&title_color=91C9B7&icon_color=D6C2A2&text_color=E4E8DF" alt="GitHub statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=karthikm-ux&show_icons=true&hide_border=true&bg_color=101820&title_color=45F3FF&icon_color=FF786B&text_color=E4EDF5" alt="GitHub statistics"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikm-ux&layout=compact&hide_border=true&bg_color=222A29&title_color=91C9B7&text_color=E4E8DF" alt="Most used languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikm-ux&layout=compact&hide_border=true&bg_color=101820&title_color=45F3FF&text_color=E4EDF5" alt="Most used languages"/>
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=karthikm-ux&hide_border=true&background=222A29&ring=91C9B7&fire=D6C2A2&currStreakLabel=91C9B7&sideLabels=E4E8DF&dates=A7B2AA&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=karthikm-ux&hide_border=true&background=101820&ring=45F3FF&fire=FF786B&currStreakLabel=45F3FF&sideLabels=E4EDF5&dates=9BAAB8&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak"/>
 
 </div>
 
 ---
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&duration=2200&color=91C9B7&background=222A29&center=true&vCenter=true&width=650&height=44&lines=07+%2F+RECENT+REPOSITORIES" alt="07 / RECENT REPOSITORIES"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=350&duration=900&color=45F3FF&background=101820&center=true&vCenter=true&width=650&height=48&lines=07+%2F+RECENT+REPOSITORIES;07+%2F+RECENT+REPOSITORIES+_" alt="Recent repositories animated heading"/>
 </h2>
 
 <!-- AUTO-UPDATE:START -->
@@ -148,7 +148,7 @@ I'm exploring different areas of technology, learning new tools, and discovering
 ---
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&duration=2200&color=91C9B7&background=222A29&center=true&vCenter=true&width=650&height=44&lines=08+%2F+PAC-MAN+CONTRIBUTIONS" alt="08 / PAC-MAN CONTRIBUTIONS"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=350&duration=900&color=45F3FF&background=101820&center=true&vCenter=true&width=650&height=48&lines=08+%2F+PAC-MAN+CONTRIBUTIONS;08+%2F+PAC-MAN+CONTRIBUTIONS+_" alt="Pac-Man animated heading"/>
 </h2>
 
 <div align="center">
@@ -164,17 +164,17 @@ I'm exploring different areas of technology, learning new tools, and discovering
 ---
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&duration=2200&color=91C9B7&background=222A29&center=true&vCenter=true&width=650&height=44&lines=09+%2F+CONNECT" alt="09 / CONNECT"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=350&duration=900&color=45F3FF&background=101820&center=true&vCenter=true&width=650&height=48&lines=09+%2F+CONNECT;09+%2F+CONNECT+_" alt="Connect animated heading"/>
 </h2>
 
 <div align="center">
 
 <a href="https://github.com/karthikm-ux">
-  <img src="https://img.shields.io/badge/GitHub-karthikm--ux-263D35?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
+  <img src="https://img.shields.io/badge/GITHUB-45F3FF?style=for-the-badge&logo=github&logoColor=101820" alt="GitHub profile"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/karthik-m-a3a167361/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-397C7A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-FF786B?style=for-the-badge&logo=linkedin&logoColor=101820" alt="LinkedIn profile"/>
 </a>
 
 </div>
@@ -183,10 +183,14 @@ I'm exploring different areas of technology, learning new tools, and discovering
 
 <div align="center">
 
-### Learn. Explore. Build.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=footer&color=0:101820,20:172D3A,45:245B73,70:167D91,88:45F3FF,100:FF786B&animation=twinkling&fontColor=FFFFFF" width="100%" alt="Animated midnight ocean and electric cyan footer"/>
 
-<sub>One step at a time.</sub>
+<a href="https://github.com/karthikm-ux">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&pause=400&duration=1000&color=45F3FF&background=10182000&center=true&vCenter=true&width=750&height=65&lines=LEARN+%2F+EXPLORE+%2F+BUILD;END+OF+TRANSMISSION;SEE+YOU+IN+THE+NEXT+COMMIT" alt="Animated closing message"/>
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:222A29,50:263D35,100:397C7A&height=110&section=footer" width="100%" alt="Earth-tone wave footer"/>
+<br/>
+
+<img src="https://img.shields.io/badge/CONNECTION-CLOSED-FF786B?style=for-the-badge&labelColor=101820" alt="Connection closed"/>
 
 </div>
