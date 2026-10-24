@@ -1,11 +1,11 @@
- 
+
 <!-- =========================================== -->
 <!-- KARTHIK | EARTH-OBSERVATION PROFILE          -->
 <!-- =========================================== -->
 
 <div align="center">
 
-<img src="./earth-banner.png" width="100%" alt="Satellite landscape of rivers, forests, and terrain"/>
+<img src="./earth-banner.png" width="100%" alt="Satellite landscape of rivers, forests, and mountains"/>
 
 <br/>
 
@@ -17,7 +17,7 @@
 
 <img src="https://img.shields.io/badge/SYSTEM-ONLINE-263D35?style=for-the-badge&labelColor=222A29" alt="System online"/>
 <img src="https://img.shields.io/badge/MODE-EXPLORING-397C7A?style=for-the-badge&labelColor=222A29" alt="Exploring mode"/>
-<img src="https://img.shields.io/badge/NEXT-BUILDING-D6C2A2?style=for-the-badge&labelColor=222A29" alt="Next objective building"/>
+<img src="https://img.shields.io/badge/NEXT-BUILDING-D6C2A2?style=for-the-badge&labelColor=222A29" alt="Next objective: building"/>
 
 </div>
 
@@ -91,7 +91,7 @@ I'm exploring different areas of technology, learning new tools, and discovering
 
 </div>
 
-<sub>Keep only the technologies you've actually used or explored; remove any icons that don't fit your experience.</sub>
+<sub>Keep only technologies you've actually used or explored.</sub>
 
 ---
 
@@ -125,7 +125,7 @@ I'm exploring different areas of technology, learning new tools, and discovering
 
 </div>
 
-<sub>Statistics are loaded from external services and may occasionally be unavailable or cached.</sub>
+<sub>Statistics are loaded from external services and may occasionally be cached or unavailable.</sub>
 
 ---
 
@@ -161,7 +161,7 @@ I'm exploring different areas of technology, learning new tools, and discovering
   <img src="https://img.shields.io/badge/GitHub-karthikm--ux-263D35?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+<a href="https://www.linkedin.com/in/karthik-m-a3a167361/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-397C7A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile"/>
 </a>
 
