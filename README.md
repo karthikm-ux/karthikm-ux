@@ -104,13 +104,13 @@ I'm interested in how things work, how they're built, and how small ideas become
 ## Recent projects
 
 <!-- AUTO-UPDATE:START -->
-- [karthikm-ux](https://github.com/karthikm-ux/karthikm-ux) — My GitHub profile and projects · Updated 2026-10-29
+- [karthikm-ux](https://github.com/karthikm-ux/karthikm-ux) — My GitHub profile and projects · Updated 2026-10-30
 - [Findora](https://github.com/karthikm-ux/Findora) · Updated 2026-10-22
 - [Synode](https://github.com/karthikm-ux/Synode) · Updated 2026-07-26
 - [Ayurvedic_AI_Agent-](https://github.com/karthikm-ux/Ayurvedic_AI_Agent-) — An AI-powered study assistant designed for Ayurvedic students. The project helps students learn Ayurvedic concepts, understand subjects more effectively, and prepare for exams through intelligent question answering, study support, and academic guidance. · Updated 2026-06-03
 <!-- AUTO-UPDATE:END -->
 
-<sub>Last updated: <!-- LAST-UPDATED -->2026-10-29<!-- /LAST-UPDATED --></sub>
+<sub>Last updated: <!-- LAST-UPDATED -->2026-10-30<!-- /LAST-UPDATED --></sub>
 
 ---
 
